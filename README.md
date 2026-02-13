@@ -46,14 +46,6 @@ https://github.com/mjorider26/video-game-genre-sales
 
 ---
 
-## 📈 GitHub Analytics
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mjorider26&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mjorider26&theme=tokyonight" height="165"/>
-</p>
-
----
-
 ## 🤝 Let’s Connect
 <p align="center">
 Always open to collaborating on analytics projects, SaaS strategy, or anything that blends business and data.
